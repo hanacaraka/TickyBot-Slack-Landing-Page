@@ -1,5 +1,5 @@
 @import 
-url('https://fonts.googleapis.com/css?family=Mukta:300,400');
+url('https://fonts.googleapis.com/css?family=Englebert:300,400');
 /* add scroll-behavior for scroll to the id by navbar */
 html, body {
     scroll-behavior: smooth;
@@ -8,7 +8,7 @@ html, body {
 body {
     padding: 0;
     margin: 0;
-    font-family: 'Mukta', sans-serif;
+    font-family: 'Englebert', sans-serif;
     font-size: 14px;
     font-weight: 300;
     line-height: 1.5;
